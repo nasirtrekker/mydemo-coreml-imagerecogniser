@@ -2,8 +2,10 @@
 //  ViewController.swift
 //  CoreMLDemo
 //
-//  Created by Sai Kambampati on 14/6/2017.
-//  Copyright © 2017 AppCoda. All rights reserved.
+//  nu-coreml-image
+//
+//  Created by Nasir Uddin on 2018-01-14.
+//  Copyright © 2018 Nasir Uddin. All rights reserved.
 //
 
 import UIKit
